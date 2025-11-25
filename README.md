@@ -1,4 +1,5 @@
 # Portfolio of Gerard Colman (GTXC)
+Made with React
 ## Relevant Links
 - https://github.com/GerardColman
 - https://gtxc.bandcamp.com/
