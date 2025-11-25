@@ -33,7 +33,7 @@ function App() {
     <BrowserRouter>
 
       {/* Navigation */}
-      <nav>
+      <nav id="navbar">
         <Link to="/">Home</Link> |{" "}
         <Link to="/about">About</Link> |{" "}
         <Link to="/music">Music Portfolio</Link> |{" "}
